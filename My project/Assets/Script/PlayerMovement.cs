@@ -9,6 +9,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
 
+    //Estas son las variables By Tauste
     public float speed = 1.0f;
     public float rotationSpeed = 1.0f;
     public float jumpForce = 1.0f;
